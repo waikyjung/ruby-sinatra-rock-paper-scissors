@@ -1,4 +1,4 @@
-# sinatra-rps
+# rub-sinatra-rock-paper-scissors
 
-Target: https://rps.matchthetarget.com/
-
+## Description
+Simple Rock, Paper, Scissors program in Ruby, Sinatra, & HTML
